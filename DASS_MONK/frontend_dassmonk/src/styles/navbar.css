@@ -1,0 +1,12 @@
+.navbar-menuop{
+    justify-items: right;
+    align-content: right;
+    justify-content: flex-end;
+}
+
+.signupbutton{
+    color: white;
+    background-color: blue;
+    border-radius: 0.2rem;
+    border-color: blue;
+}
